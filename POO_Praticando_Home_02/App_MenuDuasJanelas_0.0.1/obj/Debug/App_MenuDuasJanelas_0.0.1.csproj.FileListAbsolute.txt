@@ -1,0 +1,11 @@
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\bin\Debug\App_MenuDuasJanelas_0.0.1.exe.config
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\bin\Debug\App_MenuDuasJanelas_0.0.1.exe
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\bin\Debug\App_MenuDuasJanelas_0.0.1.pdb
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0.0.1.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0._0._1.Form1.resources
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0._0._1.Properties.Resources.resources
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0.0.1.csproj.GenerateResource.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0.0.1.exe
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\POO\POO_Praticando_Home_02\App_MenuDuasJanelas_0.0.1\obj\Debug\App_MenuDuasJanelas_0.0.1.pdb

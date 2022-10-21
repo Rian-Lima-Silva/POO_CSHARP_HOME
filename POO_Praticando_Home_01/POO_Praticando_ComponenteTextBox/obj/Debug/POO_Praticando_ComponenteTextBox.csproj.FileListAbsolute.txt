@@ -1,0 +1,11 @@
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\bin\Debug\POO_Praticando_ComponenteTextBox.exe.config
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\bin\Debug\POO_Praticando_ComponenteTextBox.exe
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\bin\Debug\POO_Praticando_ComponenteTextBox.pdb
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.Form_Principal.resources
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.Properties.Resources.resources
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.csproj.GenerateResource.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.exe
+C:\Users\limac\Downloads\Rian Lima\Visual Studio\Auto_Estudo\POO_HOME\POO_Praticando_ComponenteTextBox\obj\Debug\POO_Praticando_ComponenteTextBox.pdb
