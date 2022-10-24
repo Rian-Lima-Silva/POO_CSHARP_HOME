@@ -1,0 +1,34 @@
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.exe
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.exe
+C:\Users\Aluno\Documents\Rian Lima\C\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.pdb
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.exe.config
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.exe
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.pdb
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.SuggestedBindingRedirects.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.Form1.resources
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.Properties.Resources.resources
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.GenerateResource.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.exe
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.pdb
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\Repositorios\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.FormTabela.resources
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.exe.config
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.exe
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\bin\Debug\IMC_ValorClassifcar.pdb
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.AssemblyReference.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.SuggestedBindingRedirects.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.Form1.resources
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.Properties.Resources.resources
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.GenerateResource.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.csproj.CoreCompileInputs.cache
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.exe
+C:\Users\limac\Downloads\Rian Lima\Programação\Visual Studio\POO\AulaDesafio_IMC_\IMC_ValorClassifcar\obj\Debug\IMC_ValorClassifcar.pdb
