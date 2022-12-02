@@ -13,7 +13,7 @@ namespace ProjetoSQLServerConnection
     {
         private static string server = @"(localdb)\MSSQLLocalDB";
         private static string dataBase = "AgenciaAuto";
-        private static string user = "limac";
+        private static string user = "";
         private static string password = ""; 
 
 
