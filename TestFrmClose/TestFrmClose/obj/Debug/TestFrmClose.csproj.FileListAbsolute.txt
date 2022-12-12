@@ -1,0 +1,12 @@
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\bin\Debug\TestFrmClose.exe.config
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\bin\Debug\TestFrmClose.exe
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\bin\Debug\TestFrmClose.pdb
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.csproj.AssemblyReference.cache
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.FrmPrimeiro.resources
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.FrmPrincipal.resources
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.FrmSegundo.resources
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.Properties.Resources.resources
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.csproj.GenerateResource.cache
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.csproj.CoreCompileInputs.cache
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.exe
+C:\Users\limac\source\repos\TestFrmClose\TestFrmClose\obj\Debug\TestFrmClose.pdb
